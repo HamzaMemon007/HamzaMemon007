@@ -1,3 +1,5 @@
+<div align='center'><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=151CF7&center=true&vCenter=true&width=435&lines=Hamza+Memon+;Front+End+DEVELOPER+;Code+Lover" alt="Typing SVG" /></div>
+
 <h1 align="center">Hi 👋, I'm Hamza Memon</h1>
 <h3 align="center">A frontend developer from Pakistan</h3>
 

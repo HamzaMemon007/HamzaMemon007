@@ -33,5 +33,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=HamzaMemon007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HamzaMemon007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaMemon007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaMemon007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=hamzamemon007)
 
